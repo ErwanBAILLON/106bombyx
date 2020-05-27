@@ -26,4 +26,6 @@ Score : 64.3%
   - Rigor : 100% --- 13/13
   - Synthetic scheme : 100% --- 11/11
   
+Made with Quentin TREHEUX (LuciferBahamut)  
+
 Beware of -42 Epitech students !!!
